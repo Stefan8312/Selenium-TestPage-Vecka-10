@@ -18,7 +18,7 @@ public class SeleniumTestExample {
 
         driver.get("https://www.kimmoahola.net/selenium.html");
 
-        //
+        //1
         WebElement title =
                 driver.findElement(By.id("main-title"));
         System.out.println("Title: " + title.getText());
