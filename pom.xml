@@ -52,13 +52,6 @@
             <scope>test</scope>
         </dependency>
 
-        <!-- FIX for Chrome 147 -->
-        <dependency>
-            <groupId>org.seleniumhq.selenium</groupId>
-            <artifactId>selenium-devtools-v147</artifactId>
-            <version>4.21.0</version>
-        </dependency>
-
     </dependencies>
 
     <build>
